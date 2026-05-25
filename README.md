@@ -1,4 +1,4 @@
-## Asistente de Soporte con LangChain, RAG y LangGraph
+## Asistente de Soporte con LangChain, RAG y LangGraph.
 
 ## 🧠 Descripción del proyecto
 Este proyecto implementa un **asistente de soporte al cliente** utilizando:
